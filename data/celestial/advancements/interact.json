@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "left_click": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags:[cl.Interaction]}"
+        }
+      }
+    },
+    "right_click": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags:[cl.Interaction]}"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "left_click",
+      "right_click"
+    ]
+  ],
+  "rewards": {
+    "function": "celestial:interact"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:armor_stand",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{EntityTag:{Invisible:1b,Tags:[\"cl.Base\"]},CustomModelData:1,display:{Name:'{\"translate\":\"Celestial Sphere\",\"color\":\"light_purple\",\"italic\":false}',Lore:['{\"translate\":\"Locates Surrounding Biomes And Structures\",\"color\":\"aqua\",\"italic\":false}']}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

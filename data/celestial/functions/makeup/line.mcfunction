@@ -1,0 +1,16 @@
+particle electric_spark ^ ^ ^0 ^ ^ ^15000000000 0.0000000002 0 force @s
+particle electric_spark ^ ^ ^2 ^ ^ ^15000000000 0.0000000002 0 force @s
+particle electric_spark ^ ^ ^4 ^ ^ ^15000000000 0.0000000002 0 force @s
+particle electric_spark ^ ^ ^6 ^ ^ ^15000000000 0.0000000002 0 force @s
+particle electric_spark ^ ^ ^8 ^ ^ ^15000000000 0.0000000002 0 force @s
+particle electric_spark ^ ^ ^10 ^ ^ ^15000000000 0.0000000002 0 force @s
+particle electric_spark ^ ^ ^12 ^ ^ ^15000000000 0.0000000002 0 force @s
+particle electric_spark ^ ^ ^14 ^ ^ ^15000000000 0.0000000002 0 force @s
+particle electric_spark ^ ^ ^16 ^ ^ ^15000000000 0.0000000002 0 force @s
+particle electric_spark ^ ^ ^18 ^ ^ ^15000000000 0.0000000002 0 force @s
+particle electric_spark ^ ^ ^20 ^ ^ ^15000000000 0.0000000002 0 force @s
+particle electric_spark ^ ^ ^22 ^ ^ ^15000000000 0.0000000002 0 force @s
+particle electric_spark ^ ^ ^24 ^ ^ ^15000000000 0.0000000002 0 force @s
+particle electric_spark ^ ^ ^26 ^ ^ ^15000000000 0.0000000002 0 force @s
+particle electric_spark ^ ^ ^28 ^ ^ ^15000000000 0.0000000002 0 force @s
+particle electric_spark ^ ^ ^30 ^ ^ ^15000000000 0.0000000002 0 force @s

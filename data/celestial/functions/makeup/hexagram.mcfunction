@@ -1,0 +1,32 @@
+# [ImportKey]: NobwRALgngDgpmAXGGB7ANlA5qgdmAGjAFdiBLAEyTADMAmANjgE4BjARjgFoBWABgCGAFi5CAHPS4DmDBl0Fi6ApcwEB2IT0JhcAgLYJkgLE1AS5GAjfQAE7bTAEAnfQGck4VqmK4ISBkVZxPcHYuYABuAujEhuAAHkh8RFBxAL5JRA4UZMTOiOwAdHREjhD2XojxYHDo6GQwjobsfOV2qMUQhuVudriB3kQAVsR6MEgFYABGcABeZD1lRGSOAKJVNXWLAI7E4ZgAyrZ+VIg04XXzjgBCUzN2G1tVUHsCB0jH6HUpALpAA_3
+# 多角形 1
+particle electric_spark ^0 ^ ^-1.2 0 0 0 0 1 force @s
+particle electric_spark ^0.17321 ^ ^-0.9 0 0 0 0 1 force @s
+particle electric_spark ^0.34641 ^ ^-0.6 0 0 0 0 1 force @s
+particle electric_spark ^0.51962 ^ ^-0.3 0 0 0 0 1 force @s
+particle electric_spark ^0.69282 ^ ^0 0 0 0 0 1 force @s
+particle electric_spark ^0.86603 ^ ^0.3 0 0 0 0 1 force @s
+particle electric_spark ^1.03923 ^ ^-0.6 0 0 0 0 1 force @s
+particle electric_spark ^0.86603 ^ ^-0.3 0 0 0 0 1 force @s
+particle electric_spark ^0.51962 ^ ^0.3 0 0 0 0 1 force @s
+particle electric_spark ^0.34641 ^ ^0.6 0 0 0 0 1 force @s
+particle electric_spark ^0.17321 ^ ^0.9 0 0 0 0 1 force @s
+particle electric_spark ^1.03923 ^ ^0.6 0 0 0 0 1 force @s
+particle electric_spark ^0.69282 ^ ^0.6 0 0 0 0 1 force @s
+particle electric_spark ^0 ^ ^0.6 0 0 0 0 1 force @s
+particle electric_spark ^-0.34641 ^ ^0.6 0 0 0 0 1 force @s
+particle electric_spark ^-0.69282 ^ ^0.6 0 0 0 0 1 force @s
+particle electric_spark ^0 ^ ^1.2 0 0 0 0 1 force @s
+particle electric_spark ^-0.17321 ^ ^0.9 0 0 0 0 1 force @s
+particle electric_spark ^-0.51962 ^ ^0.3 0 0 0 0 1 force @s
+particle electric_spark ^-0.69282 ^ ^0 0 0 0 0 1 force @s
+particle electric_spark ^-0.86603 ^ ^-0.3 0 0 0 0 1 force @s
+particle electric_spark ^-1.03923 ^ ^0.6 0 0 0 0 1 force @s
+particle electric_spark ^-0.86603 ^ ^0.3 0 0 0 0 1 force @s
+particle electric_spark ^-0.51962 ^ ^-0.3 0 0 0 0 1 force @s
+particle electric_spark ^-0.34641 ^ ^-0.6 0 0 0 0 1 force @s
+particle electric_spark ^-0.17321 ^ ^-0.9 0 0 0 0 1 force @s
+particle electric_spark ^-1.03923 ^ ^-0.6 0 0 0 0 1 force @s
+particle electric_spark ^-0.69282 ^ ^-0.6 0 0 0 0 1 force @s
+particle electric_spark ^0 ^ ^-0.6 0 0 0 0 1 force @s
+particle electric_spark ^0.69282 ^ ^-0.6 0 0 0 0 1 force @s
