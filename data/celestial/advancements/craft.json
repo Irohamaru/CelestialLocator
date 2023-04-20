@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "celestial:celestial_locator"
+      }
+    }
+  },
+  "rewards": {
+    "function": "celestial:craft"
+  }
+}

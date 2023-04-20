@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GSG",
+    "CLC",
+    "GPG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "item": "minecraft:spyglass"
+    },
+    "C": {
+      "item": "minecraft:clock"
+    },
+    "L": {
+      "item": "minecraft:lapis_block"
+    },
+    "P": {
+      "item": "minecraft:compass"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}
