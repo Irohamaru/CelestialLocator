@@ -186,4 +186,10 @@ execute if score @s Celestial matches 31 if score #Distance Celestial matches 0.
 execute if score @s Celestial matches 31 if score #Distance Celestial matches 0.. positioned ~ ~ ~100 store result score #Distance3 Celestial run locate biome old_growth_pine_taiga
 execute if score @s Celestial matches 31 if score #Distance Celestial matches 0.. run function celestial:locate/calc
 
-execute if score @s Celestial matches 31 run tag @s remove cl.Locating
+execute if score @s Celestial matches 32 run data modify storage celestial: _ set value {type:"biome",text:'{"translate":"biome.minecraft.birch_forest","color":"gold"}',item:{id:"minecraft:birch_log",Count:1b}}
+execute if score @s Celestial matches 32 store result score #Distance Celestial run locate biome birch_forest
+execute if score @s Celestial matches 32 if score #Distance Celestial matches 0.. positioned ~100 ~ ~ store result score #Distance2 Celestial run locate biome birch_forest
+execute if score @s Celestial matches 32 if score #Distance Celestial matches 0.. positioned ~ ~ ~100 store result score #Distance3 Celestial run locate biome birch_forest
+execute if score @s Celestial matches 32 if score #Distance Celestial matches 0.. run function celestial:locate/calc
+
+execute if score @s Celestial matches 32 run tag @s remove cl.Locating
