@@ -12,6 +12,9 @@ Minecraft 1.19.4
 ## Dependencies / 前提データパック
 AiMath https://github.com/Ai-Akaishi/AiMath (赤石愛 様)    
 
+## Resource Pack / リソースパック
+[CelestialLocatorRP](https://github.com/Irohamaru/CelestialLocator/releases/tag/v1.0)
+
 ## How to Use / 使い方
 
 - Obtain / 入手    
